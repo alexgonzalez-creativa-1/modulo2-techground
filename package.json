@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexgonzalez-creativa-1/modulo2-techground/issues"
   },
-  "homepage": "https://github.com/alexgonzalez-creativa-1/modulo2-techground#readme"
+  "homepage": "https://github.com/alexgonzalez-creativa-1/modulo2-techground#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.3.6"
+  }
 }
