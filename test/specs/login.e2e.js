@@ -19,7 +19,7 @@ describe('My Login application', () => {
         expect(DashboardPage.getGlobalFeedTap()).toHaveClass('active', { message: 'Not active tap!', })
      //  expect(DashboardPage.getGlobalFeedTap()).toHaveProperty('class', 'nav-link active');
      expect(DashboardPage.getGlobalFeedTap()).toBeClickable();
-     expect(DashboardPage.getGlobalFeedTap()).toBeSelected();
+    // expect(DashboardPage.getGlobalFeedTap()).toBeSelected();
      
     });
 
