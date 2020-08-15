@@ -191,7 +191,7 @@ exports.config = {
      * @param {Object} suite suite details
      */
     beforeSuite: function (suite) {
-        browser.url(`https://demo.realworld.io/`)
+       // browser.url(`https://demo.realworld.io/`)
     },
     /**
      * Function to be executed before a test (in Mocha/Jasmine) starts.
